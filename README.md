@@ -1,5 +1,6 @@
 <div align="center">
 carecan.ai – Ethical Healthcare AI
+  
 carecan.ai is a React + Vite web application created from a Google AI Studio export and deployed on GitHub Pages. It showcases practical, ethical healthcare AI ideas in a simple, static web experience.
 
 Live site
